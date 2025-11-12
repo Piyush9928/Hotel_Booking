@@ -1,0 +1,39 @@
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.AssemblyInfoInputs.cache
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.AssemblyInfo.cs
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.csproj.CoreCompileInputs.cache
+D:\C#\Hotel Booking\bin\Debug\net10.0\Hotel Booking.exe
+D:\C#\Hotel Booking\bin\Debug\net10.0\Hotel Booking.deps.json
+D:\C#\Hotel Booking\bin\Debug\net10.0\Hotel Booking.runtimeconfig.json
+D:\C#\Hotel Booking\bin\Debug\net10.0\Hotel Booking.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\Hotel Booking.pdb
+D:\C#\Hotel Booking\bin\Debug\net10.0\BouncyCastle.Cryptography.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\Google.Protobuf.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\K4os.Compression.LZ4.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\K4os.Compression.LZ4.Streams.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\K4os.Hash.xxHash.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\MySql.Data.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\MySqlConnector.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\System.Configuration.ConfigurationManager.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\System.Diagnostics.EventLog.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\System.Security.Cryptography.ProtectedData.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\System.Security.Permissions.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\System.Windows.Extensions.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\ZstdSharp.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win-x64\native\comerr64.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win-x64\native\gssapi64.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win-x64\native\k5sprt64.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win-x64\native\krb5_64.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win-x64\native\krbcc64.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.Messages.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Diagnostics.EventLog.dll
+D:\C#\Hotel Booking\bin\Debug\net10.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.csproj.AssemblyReference.cache
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Bo.5156BEB0.Up2Date
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.dll
+D:\C#\Hotel Booking\obj\Debug\net10.0\refint\Hotel Booking.dll
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.pdb
+D:\C#\Hotel Booking\obj\Debug\net10.0\Hotel Booking.genruntimeconfig.cache
+D:\C#\Hotel Booking\obj\Debug\net10.0\ref\Hotel Booking.dll
